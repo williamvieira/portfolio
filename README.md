@@ -17,7 +17,7 @@ class About extends Me
     {
         return [
             'languages'  => ['JavaScript', 'PHP'],
-            'frameworks' => ['React', 'React Native', 'Laravel', 'WordPress', 'CodeIgniter'],
+            'frameworks' => ['VueJs', 'React', 'React Native', 'Laravel', 'WordPress', 'CodeIgniter'],
             'databases'  => ['MySQL', 'PostgreSQL', 'SQL Server']
         ];
     }
@@ -26,4 +26,4 @@ class About extends Me
 
 ---
 
-You can reach me via [Linkedin] (https://www.linkedin.com/in/williamvieira-tech/) and [Portfolio] (https://williamvieira.tech/)
+You can reach me via [Linkedin] (https://www.linkedin.com/in/williamvieira-tech/) [Portfolio] (https://williamvieira.tech/)

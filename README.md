@@ -1,6 +1,6 @@
 ```php
 <?php
-namespace WlliamVieira;
+namespace WilliamVieira;
 
 class About extends Me
 {
@@ -26,4 +26,4 @@ class About extends Me
 
 ---
 
-You can reach me via [Linkedin] (https://www.linkedin.com/in/williamvieira-tech/)
+You can reach me via [Linkedin] (https://www.linkedin.com/in/williamvieira-tech/) and [Portfolio] (https://williamvieira.tech/)

@@ -17,7 +17,7 @@ class About extends Me
     {
         return [
             'languages'  => ['JavaScript', 'PHP'],
-            'frameworks' => ['VueJs', 'React', 'React Native', 'Laravel', 'WordPress', 'CodeIgniter'],
+            'frameworks' => ['VueJs', 'React', 'Laravel', 'WordPress', 'CodeIgniter', 'Ionic'],
             'databases'  => ['MySQL', 'PostgreSQL', 'SQL Server'],
             'versioning' => ['GitHub']
         ];

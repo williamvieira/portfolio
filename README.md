@@ -16,7 +16,7 @@ class About extends Me
     public function getSkills(): array
     {
         return [
-            'languages'  => ['JavaScript', 'PHP'],
+            'languages'  => ['HTML', 'CSS', 'JavaScript', 'PHP', 'C#'],
             'frameworks' => ['VueJs', 'React', 'Laravel', 'WordPress', 'CodeIgniter', 'Ionic'],
             'databases'  => ['MySQL', 'PostgreSQL', 'SQL Server'],
             'versioning' => ['GitHub']

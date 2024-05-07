@@ -20,7 +20,8 @@ class About extends Me
             'languages'  => ['HTML', 'CSS', 'JavaScript', 'PHP', 'C#'],
             'frameworks' => ['VueJs', 'React', 'Laravel', 'WordPress', 'CodeIgniter', 'Ionic'],
             'databases'  => ['MySQL', 'PostgreSQL', 'SQL Server'],
-            'versioning' => ['GitHub']
+            'versioning' => ['GitHub'],
+            'containers' => ['Docker']
         ];
     }
 }

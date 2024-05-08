@@ -22,7 +22,7 @@ class About extends Me
             'databases'  => ['MySQL', 'PostgreSQL', 'SQL Server'],
             'versioning' => ['GitHub'],
             'containers' => ['Docker']
-            'cloud' => ['AWS', 'Azure']
+            'cloud' => ['AWS', 'Azure', 'Cloudflare']
         ];
     }
 }

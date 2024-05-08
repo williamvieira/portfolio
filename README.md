@@ -17,11 +17,12 @@ class About extends Me
     public function getSkills(): array
     {
         return [
-            'languages'  => ['HTML', 'CSS', 'JavaScript', 'PHP', 'C#'],
-            'frameworks' => ['VueJs', 'React', 'Laravel', 'WordPress', 'CodeIgniter', 'Ionic'],
+            'languages'  => ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'PHP', 'C#'],
+            'frameworks' => ['VueJs', 'React', 'Angular', 'Laravel', 'WordPress', 'CodeIgniter', 'Ionic'],
             'databases'  => ['MySQL', 'PostgreSQL', 'SQL Server'],
             'versioning' => ['GitHub'],
             'containers' => ['Docker']
+            'cloud' => ['AWS', 'Azure']
         ];
     }
 }

@@ -21,7 +21,7 @@ class About extends Me
             'frameworks' => ['VueJs', 'React', 'Angular', 'Laravel', 'WordPress', 'CodeIgniter', 'Ionic'],
             'databases'  => ['MySQL', 'PostgreSQL', 'SQL Server'],
             'versioning' => ['GitHub'],
-            'containers' => ['Docker']
+            'containers' => ['Docker'],
             'cloud' => ['AWS', 'Azure', 'Cloudflare']
         ];
     }

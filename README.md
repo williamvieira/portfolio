@@ -18,11 +18,11 @@ class About extends Me
     {
         return [
             'languages'  => ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'PHP', 'C#'],
-            'frameworks' => ['VueJs', 'React', 'Angular', 'Laravel', 'WordPress', 'CodeIgniter', 'Ionic'],
+            'frameworks' => ['Angular', 'VueJs', 'React', 'CodeIgniter', 'Laravel', 'WordPress', 'Flutter', 'Ionic'],
             'databases'  => ['MySQL', 'PostgreSQL', 'SQL Server'],
             'versioning' => ['GitHub'],
             'containers' => ['Docker'],
-            'cloud' => ['AWS', 'Azure', 'Cloudflare']
+            'cloud' => ['Azure', 'AWS', 'Cloudflare']
         ];
     }
 }

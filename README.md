@@ -18,7 +18,7 @@ class About extends Me
     {
         return [
             'languages'  => ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'PHP', 'C#'],
-            'frameworks' => ['Angular', 'VueJs', 'React', 'CodeIgniter', 'Laravel', 'WordPress', 'Flutter', 'Ionic'],
+            'frameworks' => ['Angular', 'VueJs', 'React', 'CodeIgniter', 'Laravel', 'WordPress', 'Flutter', 'Ionic', 'MVC'],
             'databases'  => ['MySQL', 'PostgreSQL', 'SQL Server'],
             'versioning' => ['GitHub'],
             'containers' => ['Docker'],

@@ -30,4 +30,4 @@ class About extends Me
 
 ---
 
-You can reach me via [Linkedin] (https://www.linkedin.com/in/williamvieira-tech/) [Portfolio] (https://williamvieira.tech/)
+You can reach me via [Portfolio] (https://williamvieira.tech/)
